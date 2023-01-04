@@ -1,0 +1,19 @@
+id: AA819790A
+title: The Lament of Rudra
+type: translation
+pechas:
+- IFD462208
+- IF7CC49C5
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:32:34.506230
+  last_modified_at: 2023-01-04 11:32:34.506244
+  collections:
+  - Chokgyur Dechen Lingpa
+  - Works of Tibetan Masters
+alignment_to_base:
+  IFD462208/9ABF: EA99
+  IF7CC49C5/4B77: EA99
